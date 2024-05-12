@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "24aa2a02-3873-44e0-90b5-0f2ecf37b464",
+		"name": "Messages",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28557222",
+		"_collection_link": "https://www.postman.com/science-geologist-81524734/workspace/chat-app-apllication/collection/28557222-24aa2a02-3873-44e0-90b5-0f2ecf37b464?action=share&source=collection_link&creator=28557222"
+	},
+	"item": [
+		{
+			"name": "SendMessages",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Messages",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

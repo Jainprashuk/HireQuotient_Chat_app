@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "d52490e9-2c7c-491c-84cc-067949c4c2fc",
+		"name": "Users",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28557222",
+		"_collection_link": "https://www.postman.com/science-geologist-81524734/workspace/chat-app-apllication/collection/28557222-d52490e9-2c7c-491c-84cc-067949c4c2fc?action=share&source=collection_link&creator=28557222"
+	},
+	"item": [
+		{
+			"name": "GetUsers",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

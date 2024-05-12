@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "310eb438-1037-4a31-a298-aaf01de0985a",
+		"name": "Athentication",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28557222",
+		"_collection_link": "https://www.postman.com/science-geologist-81524734/workspace/chat-app-apllication/collection/28557222-310eb438-1037-4a31-a298-aaf01de0985a?action=share&source=collection_link&creator=28557222"
+	},
+	"item": [
+		{
+			"name": "SignUp",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Logout",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
